@@ -1,1 +1,13 @@
-# Flutter-course-projects
+## Flutter-course-projects
+* [demo app]()
+* [shofar]()
+* [mi_card]()
+* [dice]()
+* [magic-8-ball]()
+* [xylophone]()
+* [true-or-false-game]()
+* [wierd choose your own story(not my script)]()
+* [BMI Calculator]()
+* [Weather Clima App]()
+* [Bitcoin rates app]()
+* [flash chat]()
