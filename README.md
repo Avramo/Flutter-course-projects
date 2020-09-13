@@ -1,8 +1,8 @@
 ## Flutter-course-projects
-* [demo app]()
-* [shofar]()
-* [mi_card]()
-* [dice]()
+* [demo app](https://github.com/Avramo/demo-app-flutter)
+* [shofar](https://github.com/Avramo/shofar-flutter)
+* [mi_card](https://github.com/Avramo/mi-card-flutter)
+* [dice](https://github.com/Avramo/dicee-flutter)
 * [magic-8-ball]()
 * [xylophone]()
 * [true-or-false-game]()
