@@ -9,5 +9,5 @@
 * [wierd choose your own story(not my script)]()
 * [BMI Calculator]()
 * [Weather Clima App]()
-* [Bitcoin rates app]()
+* [Bitcoin rates app](https://github.com/Avramo/flutter-bitcoin-challenge)
 * [flash chat]()
