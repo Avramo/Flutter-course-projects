@@ -11,3 +11,4 @@
 * [Weather Clima App](https://github.com/Avramo/clima-weather-app-flutter)
 * [Bitcoin rates app](https://github.com/Avramo/flutter-bitcoin-challenge)
 * [flash chat](https://github.com/Avramo/flash-chat-app-flutter)
+* [todo app](https://github.com/Avramo/flutter-todo-app)
